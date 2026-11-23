@@ -1,0 +1,27 @@
+# Godot 4.x local cache & generated artifacts
+.godot/
+*.translation
+
+# Export builds
+build/
+exports/
+*.exe
+*.pck
+*.zip
+
+# Python & tooling caches
+__pycache__/
+*.pyc
+*.pyo
+_tmp/
+*.tmp
+*.log
+
+# OS & Editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.bak
+.vscode/
+.idea/

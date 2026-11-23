@@ -1,0 +1,6 @@
+ALWAYS read TODO.md and AGENTS.md first before doing any work in this repository.
+Execute the remaining Prompt 09 tasks listed in TODO.md in exact priority order (Task 1 through Task 6).
+Keep ALL in-game UI, dialogue, notebook entries, and voices in English.
+Preserve the PS1-inspired low-poly 3D pixelated aesthetic.
+Do NOT re-enable vertex_lighting in shaders/ps1_spatial.gdshader.
+Run the Godot verification suites in tests/ after changes and check off completed items in TODO.md.
